@@ -29,7 +29,7 @@ I currently work as a Commercial Officer and I'm building my skills in Data Anal
 - pandas
 
 ### 📂 My Projects
-
+- https://github.com/kenzazerrouki2020/Pandas-For-Data-Analyst
 - [MyFirstProjectGit](https://github.com/kenzazerrouki2020/MyFirstProjectGit)
 
 ### 🎯 My Goal
