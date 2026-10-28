@@ -1,7 +1,6 @@
-KENZA
-JUNIOR DATA ANALYST
-Python  •  SQL  •  Excel  •  pandas
-Turning data into insights, one step at a time.
+<p align="center">
+  <img src="./cover.png" width="100%" alt="Kenza - Junior Data Analyst">
+</p>
 # Hi, I'm Kenza 👋
 
 ### Junior Data Analyst | Python | Excel | SQL
