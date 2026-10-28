@@ -1,4 +1,4 @@
-
+![Kenza - Aspiring Data Analyst](banner.png)
 # Hi, I'm Kenza 👋
 
 ### Junior Data Analyst | Python | Excel | SQL
