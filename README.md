@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cover.png" width="100%" alt="Kenza - Junior Data Analyst">
+  <img src="./cover.png" width="100%" alt="https://github.com/kenzazerrouki2020/kenzazerrouki2020/blob/main/KENZA%20JUNIOR%20DATA%20ANALYST%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Excel%20%E2%80%A2%20pandas%20Turning%20data%20into%20insights%2C%20one%20step%20at%20a%20time..png">
 </p>
 # Hi, I'm Kenza 👋
 
