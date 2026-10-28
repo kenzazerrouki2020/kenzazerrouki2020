@@ -32,6 +32,7 @@ I currently work as a Commercial Officer and I'm building my skills in Data Anal
 - https://github.com/kenzazerrouki2020/Pandas-For-Data-Analyst
 - [MyFirstProjectGit](https://github.com/kenzazerrouki2020/MyFirstProjectGit)
 - https://github.com/kenzazerrouki2020/module-install-external-packages
+- https://github.com/kenzazerrouki2020/Learn-how-to-use-Map-with-function-and-Lambda
 ### 🎯 My Goal
 
 To become a skilled Data Analyst and use data to solve real-world problems.
